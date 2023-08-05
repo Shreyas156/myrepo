@@ -1,0 +1,8 @@
+1.Github Account create karana hai 
+2. empty repo create karni hai
+3. local system mai
+	git config --global user.name "Shreyas156"
+	git config --global user.email "shreyaspeherkar3@gmail.com"
+4. git push -u origin main
+	4.1 username -> Shreyas156
+	4.2 password --> token takayche
